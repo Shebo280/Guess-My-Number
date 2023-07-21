@@ -1,2 +1,2 @@
 # Guess-My-Number
-Just a small project with JS 
+Just a simple game by JS.
